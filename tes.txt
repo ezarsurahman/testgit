@@ -1,2 +1,3 @@
 Aku nambahin text ini.
+Ini buat tambahan di feat.
 Aku nambahin ini di branch main.
